@@ -1,4 +1,17 @@
-# R-basics-programs-
-The R Programming For Data Science A-Z Complete Diploma 2022 (Udemy Programs)
+# R Programs
 
-**Anyone who is interested can learn R.**
+I make R programs to learn the R Programming Language in fun way. Anyone can learn it and it is absolutely free for all. And suggest me good ideas and comment/issues too.
+
+## Contributing
+
+Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
+#### Thank you.
+
+## Authors
+
+- [@aniketjain8441](https://github.com/aniketjain8441/)
+
+## Buy me a Coffee
+
+- [Aniket Jain](https://www.buymeacoffee.com/aniketjain/)
+
